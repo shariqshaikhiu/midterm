@@ -1,6 +1,10 @@
 import java.sql.SQLOutput;
 
 public class Main {
+    /**
+     * Modular progrmming
+     * @return sum
+     */
     public static void PrintMessage() {
         System.out.println("Welcome To Software Construction!");
     }
@@ -15,8 +19,5 @@ public class Main {
         Main.calculateSum( a, b);
         Main.PrintMessage();
     }
-
-
-
 
 }

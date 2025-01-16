@@ -3,7 +3,7 @@ public class Main {
 
     // Method that prints a welcome message
     public static void printMessage() {
-        System.out.println("Welcome to Software Construction");
+        System.out.println("Welcome to Software Construction paper final");
     }
 
     // Method that calculates the sum of two integers
